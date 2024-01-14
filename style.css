@@ -1,0 +1,7 @@
+body {
+    background-color: aqua;
+    border: none;
+    color: var(--white);
+    text-decoration: none;
+    text-align: center;
+}
